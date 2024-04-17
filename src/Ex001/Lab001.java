@@ -7,5 +7,6 @@ public class Lab001 {
         System.out.println("git pull");
         System.out.println(" checking");
         //check if git push works.
+        //check if git pull works.
     }
 }
