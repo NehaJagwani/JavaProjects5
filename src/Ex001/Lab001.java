@@ -6,5 +6,6 @@ public class Lab001 {
         System.out.println("checking again");
         System.out.println("git pull");
         System.out.println(" checking");
+        trying to add;
     }
 }
