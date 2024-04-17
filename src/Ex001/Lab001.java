@@ -5,5 +5,6 @@ public class Lab001 {
         System.out.println("My age is 65");
         System.out.println("checking again");
         System.out.println("git pull");
+        System.out.println(" checking");
     }
 }
